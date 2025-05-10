@@ -33,7 +33,7 @@ export const db = getFirestore(app);
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 // const firebaseConfig = {
-//   apiKey: "AIzaSyBczlVKzMBo6UfgwaIPwbg0vIOLolOHAPg",
+//   apiKey: "your API",
 //   authDomain: "prepwise-6fe8c.firebaseapp.com",
 //   projectId: "prepwise-6fe8c",
 //   storageBucket: "prepwise-6fe8c.firebasestorage.app",
